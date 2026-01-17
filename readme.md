@@ -1,4 +1,4 @@
-# RDP-Lifetime (VPSBYEVAGA)
+# RDP-Lifetime (RDP BY EVAGA)
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Follow these steps carefully to deploy your instance:
 * Copy and save the key (usually starts with `tskey-auth-...`).
 
 ### 3. Repository Configuration
-* Create a new repository named: `VPSBYEVAGA`.
+* Create a new repository named: `RDP-BY-EVAGA`.
 * Go to the **Settings** tab of your repository.
 * Select **Secrets and Variables** > **Actions** > **New Repository Secret**.
 * Configure the secret as follows:
@@ -47,7 +47,7 @@ Follow these steps carefully to deploy your instance:
 ### 4. Deploy Workflow
 * Click the **Actions** tab.
 * Select **"Setup a workflow yourself"**.
-* Copy the YAML code from the `RDP V1.1` file in this repository and paste it into the editor.
+* Copy the YAML code from the `RDP V0.2` file in this repository and paste it into the editor.
 * Click **Commit Changes**.
 
 ### 5. Running the Instance
